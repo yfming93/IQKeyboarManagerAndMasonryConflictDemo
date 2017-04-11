@@ -1,6 +1,6 @@
 //
 //  ViewController.m
-//  FMRazorDemo
+//  IQKeyboardManagerAndMasonryConflictDemo
 //
 //  Created by Mingo on 17/4/6.
 //  Copyright © 2017年 Mingo. All rights reserved.
