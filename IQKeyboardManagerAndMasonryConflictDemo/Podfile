@@ -1,0 +1,12 @@
+platform:ios,'8.0'
+
+target 'IQKeyboardManagerAndMasonryConflictDemo' do
+    inhibit_all_warnings!                   #消除所有第三方的警告
+    use_frameworks!
+
+#pod 'PPNetworkHelper', '~> 0.7.0'
+pod 'IQKeyboardManager', '~> 3.3.7'
+#pod 'BaiduMapKit'
+pod 'Masonry'
+end
+
